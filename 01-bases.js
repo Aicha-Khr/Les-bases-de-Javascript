@@ -1,0 +1,1 @@
+console.log('script depuis un fichier JS');
